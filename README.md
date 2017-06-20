@@ -1,8 +1,7 @@
 Gymnasium Tiergarten, Informatik GK, Q2
 Chatbot von: Dana, Nomi, Maria, Sarah
 
-Gebrauchsanleitung für den Chatbot (von DaNoMaSa):
-Zuerst einmal haben wir mit der Programmiersprache Python gearbeitet. In diesem Fall auch für den Chatbot.
+Gebrauchsanleitung für den Chatbot (von DaNoMaSa):Für unseren Chatbot haben wir mit der Programmiersprache Python gearbeitet.
 
 Unser Chatbot heißt "botpythonn", wo ein Dialog zwischen Mensch und Bot stattfindet.
 Um das Programm starten zu können, muss die F5-Taste betätigt werden.
