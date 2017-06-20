@@ -41,8 +41,8 @@ elif "nicht so gut" in s:
 chatbot2 = input ("Tschüss :")
 if "tschüss" in s:
     print ("bye")
-    sys. exit ()
+    exit ()
 elif "wieso" in s:
     print ("Darum")
-    sys. exit ()
+    exit ()
 """
