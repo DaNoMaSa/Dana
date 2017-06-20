@@ -1,6 +1,12 @@
-Gebrauchsanleitung für den Chatbot (von DaNoMaSaMi):
+Gymnasium Tiergarten, Informatik GK, Q2
+Chatbot von: Dana, Nomi, Maria, Sarah
 
-Unser Chatbot heißt "botpythonn". Es findet ein Dialog zwischen Mensch und Bot statt.
-Man braucht Python, um das Programm starten zu können. Dies geschieht mit der F5-Taste.
+Gebrauchsanleitung für den Chatbot (von DaNoMaSa):
+Zuerst einmal haben wir mit der Programmiersprache Python gearbeitet. In diesem Fall auch für den Chatbot.
+
+Unser Chatbot heißt "botpythonn", wo ein Dialog zwischen Mensch und Bot stattfindet.
+Um das Programm starten zu können, muss die F5-Taste betätigt werden.
 Das Programm öffnet sich und würde dann ablaufen.
+Ablauf: Zuerst begrüßt man den Chatbot, der eine Begrüßung zurückgibt. Anschließend werden verschiedene Fragen, wie "Schauen Sie irgendwelche Serien?" gestellt, die man möglichst mit "Ja" oder "Nein" beantworten sollte.
+Zum Ende hin verabschiedet man sich gegenseitig und das Programm wird mit "exit ()" beendet.
 
